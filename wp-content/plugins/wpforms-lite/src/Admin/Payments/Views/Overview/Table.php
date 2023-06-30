@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0029</td>
-<td bgcolor="#eeeeec" align="right">364336</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">363184</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\src\Admin\Payments\Views\Overview\Table.php" bgcolor="#eeeeec">...\Table.php<b>:</b>0</td>
 </tr>

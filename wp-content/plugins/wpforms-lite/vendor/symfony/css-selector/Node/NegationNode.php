@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
-<td bgcolor="#eeeeec" align="right">361880</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">360696</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\vendor\symfony\css-selector\Node\NegationNode.php" bgcolor="#eeeeec">...\NegationNode.php<b>:</b>0</td>
 </tr>

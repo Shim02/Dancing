@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">360536</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">360056</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\templates\admin\settings\turnstile-description.php" bgcolor="#eeeeec">...\turnstile-description.php<b>:</b>0</td>
 </tr>

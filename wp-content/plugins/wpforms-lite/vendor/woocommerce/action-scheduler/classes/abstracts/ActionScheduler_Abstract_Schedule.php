@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
-<td bgcolor="#eeeeec" align="right">362320</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">361104</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\vendor\woocommerce\action-scheduler\classes\abstracts\ActionScheduler_Abstract_Schedule.php" bgcolor="#eeeeec">...\ActionScheduler_Abstract_Schedule.php<b>:</b>0</td>
 </tr>

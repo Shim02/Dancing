@@ -13,15 +13,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">360128</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">359808</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\includes\deprecated.php" bgcolor="#eeeeec">...\deprecated.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">360128</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">359808</td>
 <td bgcolor="#eeeeec">
 <a href="http://www.php.net/function.class-alias" target="_new">class_alias</a>( <span>$class = </span><span>&#39;WPForms\\Helpers\\PluginSilentUpgraderSkin&#39;</span>, <span>$alias = </span><span>&#39;WPForms_Install_Silent_Skin&#39;</span> )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\includes\deprecated.php" bgcolor="#eeeeec">...\deprecated.php<b>:</b>146</td>
@@ -45,8 +45,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">360128</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">359808</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\includes\deprecated.php" bgcolor="#eeeeec">...\deprecated.php<b>:</b>0</td>
 </tr>

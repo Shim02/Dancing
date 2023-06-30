@@ -16,22 +16,22 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0015</td>
-<td bgcolor="#eeeeec" align="right">363136</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">361920</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\classes\class-ast-block-templates-sync-library.php" bgcolor="#eeeeec">...\class-ast-block-templates-sync-library.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0015</td>
-<td bgcolor="#eeeeec" align="right">363512</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">362296</td>
 <td bgcolor="#eeeeec">Ast_Block_Templates_Sync_Library::get_instance(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\classes\class-ast-block-templates-sync-library.php" bgcolor="#eeeeec">...\class-ast-block-templates-sync-library.php<b>:</b>773</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0015</td>
-<td bgcolor="#eeeeec" align="right">363568</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">362352</td>
 <td bgcolor="#eeeeec">Ast_Block_Templates_Sync_Library->__construct(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\classes\class-ast-block-templates-sync-library.php" bgcolor="#eeeeec">...\class-ast-block-templates-sync-library.php<b>:</b>44</td>
 </tr>

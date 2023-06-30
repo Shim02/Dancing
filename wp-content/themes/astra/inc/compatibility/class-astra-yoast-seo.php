@@ -16,15 +16,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">360224</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">359904</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\themes\astra\inc\compatibility\class-astra-yoast-seo.php" bgcolor="#eeeeec">...\class-astra-yoast-seo.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">360264</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">359944</td>
 <td bgcolor="#eeeeec">Astra_Yoast_SEO->__construct(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\themes\astra\inc\compatibility\class-astra-yoast-seo.php" bgcolor="#eeeeec">...\class-astra-yoast-seo.php<b>:</b>38</td>
 </tr>

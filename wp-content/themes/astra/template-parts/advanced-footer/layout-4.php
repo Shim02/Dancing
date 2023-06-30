@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">360912</td>
+<td bgcolor="#eeeeec" align="center">0.0004</td>
+<td bgcolor="#eeeeec" align="right">359952</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\themes\astra\template-parts\advanced-footer\layout-4.php" bgcolor="#eeeeec">...\layout-4.php<b>:</b>0</td>
 </tr>

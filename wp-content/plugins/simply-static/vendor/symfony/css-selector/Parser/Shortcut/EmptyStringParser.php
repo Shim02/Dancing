@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
-<td bgcolor="#eeeeec" align="right">361224</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">360552</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\simply-static\vendor\symfony\css-selector\Parser\Shortcut\EmptyStringParser.php" bgcolor="#eeeeec">...\EmptyStringParser.php<b>:</b>0</td>
 </tr>

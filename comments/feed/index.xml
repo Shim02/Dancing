@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for dance_academy	</title>
-	<atom:link href="http://shim02.github.io/dancing/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://shim02.github.io/dancing</link>
+	<atom:link href="https://shim02.github.io/dancing/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shim02.github.io/dancing</link>
 	<description></description>
 	<lastBuildDate>Sat, 17 Jun 2023 16:35:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>http://shim02.github.io/dancing/2023/06/17/hello-world/#comment-1</link>
+		<link>https://shim02.github.io/dancing/2023/06/17/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 17 Jun 2023 16:35:08 +0000</pubDate>
-		<guid isPermaLink="false">http://shim02.github.io/dancing/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://shim02.github.io/dancing/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

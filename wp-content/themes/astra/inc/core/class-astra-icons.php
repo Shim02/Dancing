@@ -17,21 +17,21 @@
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
 <td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">360048</td>
+<td bgcolor="#eeeeec" align="right">359728</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\themes\astra\inc\core\class-astra-icons.php" bgcolor="#eeeeec">...\class-astra-icons.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
 <td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">360088</td>
+<td bgcolor="#eeeeec" align="right">359768</td>
 <td bgcolor="#eeeeec">Astra_Icons->__construct(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\themes\astra\inc\core\class-astra-icons.php" bgcolor="#eeeeec">...\class-astra-icons.php<b>:</b>136</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
 <td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">360088</td>
+<td bgcolor="#eeeeec" align="right">359768</td>
 <td bgcolor="#eeeeec">Astra_Icons::is_svg_icons(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\themes\astra\inc\core\class-astra-icons.php" bgcolor="#eeeeec">...\class-astra-icons.php<b>:</b>23</td>
 </tr>

@@ -16,15 +16,15 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">360248</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">359928</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\includes\admin\builder\class-builder.php" bgcolor="#eeeeec">...\class-builder.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0004</td>
-<td bgcolor="#eeeeec" align="right">360248</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">359928</td>
 <td bgcolor="#eeeeec">WPForms_Builder::instance(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\includes\admin\builder\class-builder.php" bgcolor="#eeeeec">...\class-builder.php<b>:</b>1105</td>
 </tr>

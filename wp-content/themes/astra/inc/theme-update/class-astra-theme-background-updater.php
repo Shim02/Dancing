@@ -17,14 +17,14 @@
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
 <td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">361352</td>
+<td bgcolor="#eeeeec" align="right">361032</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\themes\astra\inc\theme-update\class-astra-theme-background-updater.php" bgcolor="#eeeeec">...\class-astra-theme-background-updater.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
 <td bgcolor="#eeeeec" align="center">0.0003</td>
-<td bgcolor="#eeeeec" align="right">361768</td>
+<td bgcolor="#eeeeec" align="right">361448</td>
 <td bgcolor="#eeeeec">Astra_Theme_Background_Updater->__construct(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\themes\astra\inc\theme-update\class-astra-theme-background-updater.php" bgcolor="#eeeeec">...\class-astra-theme-background-updater.php<b>:</b>418</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0008</td>
-<td bgcolor="#eeeeec" align="right">362296</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">361112</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\simply-static\vendor\symfony\css-selector\XPath\Translator.php" bgcolor="#eeeeec">...\Translator.php<b>:</b>0</td>
 </tr>

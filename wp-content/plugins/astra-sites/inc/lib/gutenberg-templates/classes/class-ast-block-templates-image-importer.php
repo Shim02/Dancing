@@ -16,22 +16,22 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0010</td>
-<td bgcolor="#eeeeec" align="right">362176</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">360960</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\classes\class-ast-block-templates-image-importer.php" bgcolor="#eeeeec">...\class-ast-block-templates-image-importer.php<b>:</b>0</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">2</td>
-<td bgcolor="#eeeeec" align="center">0.0011</td>
-<td bgcolor="#eeeeec" align="right">362552</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">361336</td>
 <td bgcolor="#eeeeec">Ast_Block_Templates_Image_Importer::get_instance(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\classes\class-ast-block-templates-image-importer.php" bgcolor="#eeeeec">...\class-ast-block-templates-image-importer.php<b>:</b>252</td>
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">3</td>
-<td bgcolor="#eeeeec" align="center">0.0011</td>
-<td bgcolor="#eeeeec" align="right">362608</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">361392</td>
 <td bgcolor="#eeeeec">Ast_Block_Templates_Image_Importer->__construct(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\classes\class-ast-block-templates-image-importer.php" bgcolor="#eeeeec">...\class-ast-block-templates-image-importer.php<b>:</b>52</td>
 </tr>

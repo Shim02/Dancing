@@ -17,7 +17,7 @@
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
 <td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">360928</td>
+<td bgcolor="#eeeeec" align="right">360608</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\simply-static\src\tasks\class-ss-simply-cdn-task.php" bgcolor="#eeeeec">...\class-ss-simply-cdn-task.php<b>:</b>0</td>
 </tr>

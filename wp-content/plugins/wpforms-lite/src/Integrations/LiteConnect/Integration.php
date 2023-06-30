@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">361664</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">361344</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\src\Integrations\LiteConnect\Integration.php" bgcolor="#eeeeec">...\Integration.php<b>:</b>0</td>
 </tr>

@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">363904</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">363584</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\simply-static\vendor\a5hleyrich\wp-background-processing\classes\wp-background-process.php" bgcolor="#eeeeec">...\wp-background-process.php<b>:</b>0</td>
 </tr>

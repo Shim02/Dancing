@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0007</td>
-<td bgcolor="#eeeeec" align="right">360560</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">360080</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\ast-block-templates.php" bgcolor="#eeeeec">...\ast-block-templates.php<b>:</b>0</td>
 </tr>

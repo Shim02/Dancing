@@ -81,8 +81,8 @@
 
 @font-face {
   font-family: 'Icon WPForms';
-  src: url("http://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.eot");
-  src: url("http://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.eot#iefix") format("embedded-opentype"), url("http://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.woff2") format("woff2"), url("http://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.woff") format("woff"), url("http://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.ttf") format("truetype"), url("http://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.svg") format("svg");
+  src: url("https://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.eot");
+  src: url("https://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.eot#iefix") format("embedded-opentype"), url("https://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.woff2") format("woff2"), url("https://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.woff") format("woff"), url("https://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.ttf") format("truetype"), url("https://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.svg") format("svg");
 }
 
 #elementor-editor-wrapper .icon-wpforms, .elementor-edit-area .icon-wpforms {
@@ -195,7 +195,7 @@
 
 .et-db #et-boc .et-l .et-fb-modules-list ul > li.wpforms_selector::before {
   content: '';
-  background-image: url("http://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/divi/wpforms-icon.svg");
+  background-image: url("https://shim02.github.io/dancing/wp-content/plugins/wpforms-lite/assets/images/integrations/divi/wpforms-icon.svg");
   height: 16px;
   font-variant: normal;
   background-position: center center;

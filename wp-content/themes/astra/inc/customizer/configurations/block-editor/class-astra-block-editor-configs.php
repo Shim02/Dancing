@@ -17,7 +17,7 @@
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
 <td bgcolor="#eeeeec" align="center">0.0005</td>
-<td bgcolor="#eeeeec" align="right">361208</td>
+<td bgcolor="#eeeeec" align="right">360536</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\themes\astra\inc\customizer\configurations\block-editor\class-astra-block-editor-configs.php" bgcolor="#eeeeec">...\class-astra-block-editor-configs.php<b>:</b>0</td>
 </tr>

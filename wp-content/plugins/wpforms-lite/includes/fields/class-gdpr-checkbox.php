@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0018</td>
-<td bgcolor="#eeeeec" align="right">361352</td>
+<td bgcolor="#eeeeec" align="center">0.0003</td>
+<td bgcolor="#eeeeec" align="right">360200</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\includes\fields\class-gdpr-checkbox.php" bgcolor="#eeeeec">...\class-gdpr-checkbox.php<b>:</b>0</td>
 </tr>

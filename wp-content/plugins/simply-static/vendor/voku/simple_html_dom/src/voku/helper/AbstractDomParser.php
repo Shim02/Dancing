@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0006</td>
-<td bgcolor="#eeeeec" align="right">362680</td>
+<td bgcolor="#eeeeec" align="center">0.0005</td>
+<td bgcolor="#eeeeec" align="right">362360</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\simply-static\vendor\voku\simple_html_dom\src\voku\helper\AbstractDomParser.php" bgcolor="#eeeeec">...\AbstractDomParser.php<b>:</b>0</td>
 </tr>

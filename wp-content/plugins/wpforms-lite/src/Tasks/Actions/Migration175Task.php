@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0017</td>
-<td bgcolor="#eeeeec" align="right">362352</td>
+<td bgcolor="#eeeeec" align="center">0.0002</td>
+<td bgcolor="#eeeeec" align="right">361200</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\src\Tasks\Actions\Migration175Task.php" bgcolor="#eeeeec">...\Migration175Task.php<b>:</b>0</td>
 </tr>

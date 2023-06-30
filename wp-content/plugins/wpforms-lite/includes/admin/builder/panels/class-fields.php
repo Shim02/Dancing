@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0030</td>
-<td bgcolor="#eeeeec" align="right">361848</td>
+<td bgcolor="#eeeeec" align="center">0.0001</td>
+<td bgcolor="#eeeeec" align="right">360664</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="C:\wamp64\www\dance_academy\wp-content\plugins\wpforms-lite\includes\admin\builder\panels\class-fields.php" bgcolor="#eeeeec">...\class-fields.php<b>:</b>0</td>
 </tr>

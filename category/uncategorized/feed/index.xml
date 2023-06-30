@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; dance_academy</title>
-	<atom:link href="http://shim02.github.io/dancing/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://shim02.github.io/dancing</link>
+	<atom:link href="https://shim02.github.io/dancing/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shim02.github.io/dancing</link>
 	<description></description>
 	<lastBuildDate>Sat, 17 Jun 2023 16:35:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://shim02.github.io/dancing/2023/06/17/hello-world/</link>
-					<comments>http://shim02.github.io/dancing/2023/06/17/hello-world/#comments</comments>
+		<link>https://shim02.github.io/dancing/2023/06/17/hello-world/</link>
+					<comments>https://shim02.github.io/dancing/2023/06/17/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 17 Jun 2023 16:35:08 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://shim02.github.io/dancing/?p=1</guid>
+		<guid isPermaLink="false">https://shim02.github.io/dancing/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://shim02.github.io/dancing/2023/06/17/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://shim02.github.io/dancing/2023/06/17/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
